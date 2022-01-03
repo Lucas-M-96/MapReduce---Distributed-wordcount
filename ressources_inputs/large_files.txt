@@ -1,0 +1,1 @@
+Github doesn't allow larger input files but the code is able to handle very large files provided that the cluster on which it is executed is large enough
